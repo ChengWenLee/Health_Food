@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "M_WhiteCloud_drawing_Pan-fried_salmon_roasted_sweet_potato_tomato_7986e0dc-7a76-4ff1-a748-083e26e486b7.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

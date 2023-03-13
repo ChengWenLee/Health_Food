@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "K_WhiteCloud_drawing_fried_eggs_bacon_vegetables_sketch_style_b3471de0-86a3-49fc-a48c-469cb9145d56.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

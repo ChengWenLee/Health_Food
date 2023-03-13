@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "M_WhiteCloud_drawing_seafood_pasta_salad_fruit_sketch_style_c64f5216-1bca-448d-a61b-f4dfe992db8f.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "K_WhiteCloud_drawing_Salsa_Cheese_with_Vegetable_Omelet_sketch_st_6ffba577-c6c2-4a8b-aa35-5c2abad39bf4.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

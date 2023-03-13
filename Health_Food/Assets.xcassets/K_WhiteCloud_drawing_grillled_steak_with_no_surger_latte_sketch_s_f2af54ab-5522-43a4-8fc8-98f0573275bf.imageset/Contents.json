@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "K_WhiteCloud_drawing_grillled_steak_with_no_surger_latte_sketch_s_f2af54ab-5522-43a4-8fc8-98f0573275bf.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

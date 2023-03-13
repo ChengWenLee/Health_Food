@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Order_Wildestwind_long_hair_love_space_stars_ethereal_kiss_embrace_wa_8ddd2f1e-505b-4d78-b805-bf107fd415df.PNG",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

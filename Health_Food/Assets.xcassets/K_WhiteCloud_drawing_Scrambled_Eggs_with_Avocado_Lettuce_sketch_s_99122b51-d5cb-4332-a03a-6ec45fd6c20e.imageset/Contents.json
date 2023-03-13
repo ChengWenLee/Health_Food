@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "K_WhiteCloud_drawing_Scrambled_Eggs_with_Avocado_Lettuce_sketch_s_99122b51-d5cb-4332-a03a-6ec45fd6c20e.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
